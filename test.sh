@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "test6"
+echo "test7"
